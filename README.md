@@ -13,7 +13,7 @@ This repository contains code and resources for a telecom customer churn predict
 5.Analysis of accuracy on every model Logistic Regression,KNeighbors Classifier, RandomForestClassifier, GradientBoostingClassifier, 
   Decision Tree Classifier
 
-## Libraries and Frameworks used
+## Libraries used
 1.Sklearn
 
 2.NumPy
